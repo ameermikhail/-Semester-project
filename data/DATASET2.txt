@@ -1,0 +1,42 @@
+[
+  {
+    "name": "B1",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "09:00",
+    "service": "Manicure",
+    "worker": "Alice"
+  },
+  {
+    "name": "B2",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "09:30",
+    "service": "Pedicure",
+    "worker": "Bob"
+  },
+  {
+    "name": "B3",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "10:00",
+    "service": "Facial",
+    "worker": "Charlie"
+  },
+  {
+    "name": "B4",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "10:30",
+    "service": "Styling",
+    "worker": "David"
+  },
+  {
+    "name": "B5",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "11:00",
+    "service": "Shave",
+    "worker": "Alice"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "B1",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "09:00",
+    "service": "Haircut",
+    "worker": "Alice"
+  },
+  {
+    "name": "B2",
+    "phone": "2222222222",
+    "date": "2024-12-21",
+    "time": "09:00",
+    "service": "Facial",
+    "worker": "Alice"
+  }
+]

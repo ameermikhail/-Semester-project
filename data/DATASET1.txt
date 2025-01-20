@@ -1,0 +1,42 @@
+[
+  {
+    "name": "A1",
+    "phone": "1111111111",
+    "date": "2024-12-20",
+    "time": "08:00",
+    "service": "Haircut",
+    "worker": "Alice"
+  },
+  {
+    "name": "A2",
+    "phone": "1111111111",
+    "date": "2024-12-20",
+    "time": "08:00",
+    "service": "Haircut",
+    "worker": "Bob"
+  },
+  {
+    "name": "A3",
+    "phone": "1111111111",
+    "date": "2024-12-20",
+    "time": "08:00",
+    "service": "Haircut",
+    "worker": "Charlie"
+  },
+  {
+    "name": "A4",
+    "phone": "1111111111",
+    "date": "2024-12-20",
+    "time": "08:00",
+    "service": "Haircut",
+    "worker": "David"
+  },
+  {
+    "name": "A5",
+    "phone": "1111111111",
+    "date": "2024-12-20",
+    "time": "08:00",
+    "service": "Hair Color",
+    "worker": "Alice"
+  }
+]
